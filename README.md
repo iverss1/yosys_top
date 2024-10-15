@@ -1,5 +1,5 @@
 # yosys_top
-A simple project to synthesis RTL to final netlist :blush:, detail process is conducted in [My_CSDN](https://blog.csdn.net/iverss/article/details/142944047?spm=1001.2014.3001.5502 "悬停显示").
+A simple project to synthesis RTL to final netlist :blush:, detail process is conducted in [My_CSDN](https://blog.csdn.net/iverss/article/details/142944047?spm=1001.2014.3001.5502 "click it！").
 ## Input
 `top.v`
 ## Output 
